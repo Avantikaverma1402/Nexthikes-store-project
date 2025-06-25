@@ -1,0 +1,20 @@
+artifact_path: file:///c:/Users/avant/Avantika%20Digicrome/Project%206/mlruns/998889653849810370/models/m-6cf3ae6831ed4681bda91ef20ea4a747/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.8
+mlflow_version: 3.1.1
+model_id: m-6cf3ae6831ed4681bda91ef20ea4a747
+model_size_bytes: 227707
+model_uuid: m-6cf3ae6831ed4681bda91ef20ea4a747
+prompts: null
+run_id: d70c139f611f4253a05567f7926c90f3
+utc_time_created: '2025-06-25 17:34:26.691541'

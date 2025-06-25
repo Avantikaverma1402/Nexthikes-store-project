@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/avant/Avantika%20Digicrome/Project%206/mlruns/998889653849810370/d70c139f611f4253a05567f7926c90f3/artifacts
+end_time: 1750872897488
+entry_point_name: ''
+experiment_id: '998889653849810370'
+lifecycle_stage: active
+run_id: d70c139f611f4253a05567f7926c90f3
+run_name: lstm_sales_forecasting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750872849883
+status: 3
+tags: []
+user_id: avant

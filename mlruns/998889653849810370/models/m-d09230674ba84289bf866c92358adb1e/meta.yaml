@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/avant/Avantika%20Digicrome/Project%206/mlruns/998889653849810370/models/m-d09230674ba84289bf866c92358adb1e/artifacts
+creation_timestamp: 1750861033521
+experiment_id: '998889653849810370'
+last_updated_timestamp: 1750861047646
+model_id: m-d09230674ba84289bf866c92358adb1e
+model_type: null
+name: lstm_model
+source_run_id: c746bbd1c1c848d58bc60cd28bd3cc6e
+status: 2
+status_message: null
